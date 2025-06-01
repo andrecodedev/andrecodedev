@@ -1,10 +1,10 @@
-<h1 align="left">Bem-vindo(a) ao GitHub de André Vitor</h1>
+<h1 align="left">👋 Bem-vindo(a) ao GitHub de André Vitor</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">Olá, sou André Vitor! Com uma sólida base em Análise e Desenvolvimento de Sistemas [...]</p>
+<p align="left">Olá, sou André Vitor! Desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas. Apaixonado por criar soluções tecnológicas inovadoras e eficientes.</p>
 
 ###
 
@@ -22,20 +22,25 @@
 
 ###
 
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+
 <div align="center">
-  <!-- Seus ícones de habilidades aqui -->
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,mysql,git,github&theme=dark" alt="Habilidades Técnicas"/>
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,react,nodejs,nextjs,mysql,mongodb,git,github,docker,aws,figma&theme=dark" alt="Habilidades Técnicas"/>
 </div>
 
 ###
 
+<h2 align="center">📫 Como me encontrar</h2>
+
 <div align="center">
-  <!-- Seus badges de redes sociais aqui -->
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:seu-email@exemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://andrecodedev.portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
