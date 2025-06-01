@@ -39,7 +39,7 @@
   <a href="mailto:seu-email@exemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://andrecodedev.portfolio.com" target="_blank">
+  <a href="https://andrecode.dev.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
