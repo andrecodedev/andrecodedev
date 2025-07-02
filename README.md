@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/andrecodedev/)](https://www.linkedin.com/in/andrecodedev/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato.andrecodedev@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:contato.andrecodedev@gmail.com)](mailto:contato.andrecodedev@gmail.com)
 
-Meu nome é André Vitor, também conhecido como “andrecode”. Tenho 20 anos, sou técnico em Análise e Desenvolvimento de Sistemas formado pela ETEC de São Roque e atualmente curso graduação em ADS na FACENS, com bolsa integral.
+Meu nome é André Vitor, também conhecido como “andrecodedev”. Tenho 20 anos, sou técnico em Análise e Desenvolvimento de Sistemas formado pela ETEC de São Roque e atualmente curso graduação em ADS na FACENS, com bolsa integral.
 
 Sou comunicativo, focado e apaixonado por compartilhar conhecimento. Atuo como monitor acadêmico, auxiliando colegas em Construção de Algoritmos e Lógica de Programação. Além disso, estudo programação na ONEBITCODE e na Oracle Next Education, aprofundando minhas habilidades técnicas.
 
