@@ -1,6 +1,6 @@
 # André Vitor - #OpenToWork
 
-### Desenvolvedor Backend
+### Desenvolvedor Backend & Web
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/andrecodedev/)](https://www.linkedin.com/in/andrecodedev/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato.andrecodedev@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:contato.andrecodedev@gmail.com)](mailto:contato.andrecodedev@gmail.com)
