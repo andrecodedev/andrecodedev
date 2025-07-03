@@ -14,11 +14,8 @@ Minha trajetória na programação é marcada pela dedicação contínua e pelo 
 **Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
 
 ##
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrecodedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=true&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecodedev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nord&hide_border=true&order=2" height="170" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrecodedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=true&locale=pt-br&order=1&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2e2e2e" height="170" alt="stats graph" />
 
-###
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecodedev&layout=compact&card_width=320&langs_count=12&hide_border=true&locale=pt-br&order=2&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2e2e2e" height="170" alt="languages graph" />
+</div>
