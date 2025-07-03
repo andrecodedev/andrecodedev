@@ -12,3 +12,13 @@ Sou comunicativo, focado e apaixonado por compartilhar conhecimento. Atuo como m
 Minha trajetória na programação é marcada pela dedicação contínua e pelo desejo de evolução, buscando sempre transformar conhecimento em soluções práticas.
 
 **Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
+
+##
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrecodedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecodedev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nord&hide_border=true&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
