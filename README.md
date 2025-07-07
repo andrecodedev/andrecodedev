@@ -15,7 +15,18 @@ Minha trajetória na programação é marcada pela dedicação contínua e pelo 
 
 ##
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrecodedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=true&locale=pt-br&order=1&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2e2e2e" height="170" alt="stats graph" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=andrecodedev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2e2e2e" 
+    width="500"
+    alt="GitHub Stats" 
+    style="display: inline-block; vertical-align: top;"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecodedev&layout=compact&card_width=320&langs_count=12&hide_border=true&locale=pt-br&order=2&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2e2e2e" height="170" alt="languages graph" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodedev&layout=compact&langs_count=12&hide_border=true&locale=pt-br&title_color=ffffff&text_color=ffffff&bg_color=2e2e2e" 
+    width="350"
+    alt="Top Languages" 
+    style="display: inline-block; vertical-align: top;"
+  />
 </div>
+
