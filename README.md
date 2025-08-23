@@ -1,18 +1,19 @@
 # André Vitor - #OpenToWork
 
-### Desenvolvedor Backend & Web
+### Desenvolvedor Júnior | Backend & Web
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4a4a4a?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/andrecodedev/)](https://www.linkedin.com/in/andrecodedev/) 
 [![Portfólio](https://img.shields.io/badge/-Portfólio-4a4a4a?style=flat-square)](https://andrecode.dev.br/)
 [![Gmail Badge](https://img.shields.io/badge/-contato.andrecodedev@gmail.com-4a4a4a?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:contato.andrecodedev@gmail.com)](mailto:contato.andrecodedev@gmail.com)
 
-Meu nome é André Vitor, também conhecido como “andrecodedev”. Tenho 20 anos, sou técnico em Análise e Desenvolvimento de Sistemas formado pela ETEC de São Roque e atualmente curso graduação em ADS na FACENS, com bolsa integral.
+Sou André Vitor, **Desenvolvedor Júnior na TEC4U**, com formação técnica em **Análise e Desenvolvimento de Sistemas** pela ETEC de São Roque e atualmente cursando **Bacharelado em Análise e Desenvolvimento de Sistemas** na FACENS, com bolsa integral.
 
-Sou comunicativo, focado e apaixonado por compartilhar conhecimento. Atuo como monitor acadêmico, auxiliando colegas em Construção de Algoritmos e Lógica de Programação. Além disso, estudo programação na OneBitCode Infinity Pro, na DIO Global Vitalício e na Oracle Next Education, aprofundando minhas habilidades técnicas.
+Busco constantemente evoluir como desenvolvedor, aplicando **práticas modernas** e participando de **projetos práticos**.  
+Estudo por plataformas como **OneBitCode, DIO e Alura**, sempre em busca de aprimorar minhas habilidades e entregar soluções de qualidade.
 
-Minha trajetória na programação é marcada pela dedicação contínua e pelo desejo de evolução, buscando sempre transformar conhecimento em soluções práticas.
+Sou comunicativo, focado e apaixonado por compartilhar conhecimento. Acredito que tecnologia é um meio para transformar ideias em realidade.
 
-**Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
+**Precisando de um projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
 
 ##
 <div align="center">
@@ -30,5 +31,3 @@ Minha trajetória na programação é marcada pela dedicação contínua e pelo 
     style="display: inline-block; vertical-align: top;"
   />
 </div>
-
-
