@@ -1,6 +1,6 @@
 # André Vitor - #OpenToWork
 
-### Desenvolvedor Júnior | Backend & Web
+### Desenvolvedor Web Júnior | Backend & Web
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4a4a4a?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/andrecodedev/)](https://www.linkedin.com/in/andrecodedev/) 
 [![Portfólio](https://img.shields.io/badge/-Portfólio-4a4a4a?style=flat-square)](https://andrecode.dev.br/)
