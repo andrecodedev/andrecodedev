@@ -6,7 +6,7 @@
 [![Portfólio](https://img.shields.io/badge/-Portfólio-4a4a4a?style=flat-square)](https://andrecode.dev.br/)
 [![Gmail Badge](https://img.shields.io/badge/-contato.andrecodedev@gmail.com-4a4a4a?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:contato.andrecodedev@gmail.com)](mailto:contato.andrecodedev@gmail.com)
 
-Sou André Vitor, **Desenvolvedor Júnior na TEC4U**, com formação técnica em **Análise e Desenvolvimento de Sistemas** pela ETEC de São Roque e atualmente cursando **Bacharelado em Análise e Desenvolvimento de Sistemas** na FACENS, com bolsa integral.
+Sou André Vitor, **Desenvolvedor Web Júnior na TEC4U**, com formação técnica em **Análise e Desenvolvimento de Sistemas** pela ETEC de São Roque e atualmente cursando **Bacharelado em Análise e Desenvolvimento de Sistemas** na FACENS, com bolsa integral.
 
 Busco constantemente evoluir como desenvolvedor, aplicando **práticas modernas** e participando de **projetos práticos**.  
 Estudo por plataformas como **OneBitCode, DIO e Alura**, sempre em busca de aprimorar minhas habilidades e entregar soluções de qualidade.
