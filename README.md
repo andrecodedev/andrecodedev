@@ -14,7 +14,7 @@ Estudo por plataformas como **OneBitCode, DIO e Alura**, sempre em busca de apri
 Sou comunicativo, focado e apaixonado por compartilhar conhecimento. Acredito que tecnologia é um meio para transformar ideias em realidade.
 
 **Precisando de um projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
-<!-- 
+
 ESTE BLOCO ESTÁ COMENTADO PORQUE O SERVIÇO ESTÁ FORA DO AR. 
 PARA VOLTAR A EXIBIR, BASTA APAGAR AS TAGS DE COMENTÁRIO.
 ##
@@ -33,4 +33,3 @@ PARA VOLTAR A EXIBIR, BASTA APAGAR AS TAGS DE COMENTÁRIO.
     style="display: inline-block; vertical-align: top;"
   />
 </div>
--->
