@@ -15,8 +15,6 @@ Sou comunicativo, focado e apaixonado por compartilhar conhecimento. Acredito qu
 
 **Precisando de um projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
 
-ESTE BLOCO ESTÁ COMENTADO PORQUE O SERVIÇO ESTÁ FORA DO AR. 
-PARA VOLTAR A EXIBIR, BASTA APAGAR AS TAGS DE COMENTÁRIO.
 ##
 <div align="center">
   <img 
