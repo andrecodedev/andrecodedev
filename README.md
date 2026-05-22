@@ -17,17 +17,6 @@ Sou comunicativo, focado e apaixonado por compartilhar conhecimento. Acredito qu
 
 ##
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=andrecodedev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2e2e2e&v=1"
-    width="420"
-    alt="GitHub Stats" 
-    style="display: inline-block; vertical-align: top; margin-right: 15px;"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodedev&layout=compact&langs_count=12&hide_border=true&locale=pt-br&title_color=ffffff&text_color=ffffff&bg_color=2e2e2e" 
-    width="350"
-    alt="Top Languages" 
-    style="display: inline-block; vertical-align: top;"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrecodedev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=Estat%C3%ADsticas%20do%20GitHub&locale=pt-br&title_color=1f2937&text_color=4b5563&icon_color=216e39&theme=light" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrecodedev&layout=compact&langs_count=12&hide_border=true&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br&title_color=1f2937&text_color=4b5563&theme=light" alt="Top Languages" width="350" />
 </div>
